@@ -41,3 +41,7 @@ HTTP detected -> Consider HTTPS
 ## Author
 
 Lydia Lino John
+## Project Demonstration
+
+![Scanner Output](scanner_output.png)
+
