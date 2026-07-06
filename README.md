@@ -45,3 +45,9 @@ Lydia Lino John
 
 ![Scanner Output](scanner_output.png)
 
+## Usage
+
+```bash
+python3 port_scanner.py
+```
+
